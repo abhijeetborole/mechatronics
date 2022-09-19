@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "737edfef-e9b6-44fd-b39e-f2456021a3a2",
+		"name": "API Collection 1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "900232-737edfef-e9b6-44fd-b39e-f2456021a3a2"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "5e6eeb1c-e7c3-4405-9324-52c0549b900b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "google.com",
+					"host": [
+						"google",
+						"com"
+					]
+				}
+			},
+			"response": [
+				{
+					"id": "1b6c41a6-15f5-490c-a0da-6024793a4b7c",
+					"name": "545",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "google.com",
+							"host": [
+								"google",
+								"com"
+							]
+						}
+					},
+					"_postman_previewlanguage": "Text",
+					"header": null,
+					"cookie": [],
+					"body": null
+				},
+				{
+					"id": "2ac6a51f-c87c-4ed8-ba4b-befb0b6dac64",
+					"name": "New Example 2",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "google.com",
+							"host": [
+								"google",
+								"com"
+							]
+						}
+					},
+					"_postman_previewlanguage": "Text",
+					"header": "",
+					"cookie": [],
+					"body": ""
+				}
+			]
+		}
+	]
+}
