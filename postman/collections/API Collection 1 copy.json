@@ -8,7 +8,23 @@
 	"item": [
 		{
 			"name": "wsdasdasd",
-			"item": [],
+			"item": [
+				{
+					"name": "New Request",
+					"id": "95548a6d-bdb8-4736-bf7d-52f3edfebe04",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				}
+			],
 			"id": "abc06230-579c-4e81-95bc-dc55e877b8cc",
 			"auth": {
 				"type": "oauth1",
