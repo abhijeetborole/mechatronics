@@ -1,86 +1,14 @@
 {
 	"info": {
 		"_postman_id": "448ae47e-5360-49a4-9825-113029ccc1d2",
-		"name": "API Collection 1",
+		"name": "Boro",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "900232-448ae47e-5360-49a4-9825-113029ccc1d2"
 	},
 	"item": [
 		{
-			"name": "wsdasdasd",
-			"item": [],
-			"id": "5f9d7033-1946-42f2-b410-10e20cdaf62f",
-			"auth": {
-				"type": "oauth1",
-				"oauth1": [
-					{
-						"key": "signatureMethod",
-						"value": "HMAC-SHA1",
-						"type": "string"
-					},
-					{
-						"key": "version",
-						"value": "1.0",
-						"type": "string"
-					},
-					{
-						"key": "addParamsToHeader",
-						"value": false,
-						"type": "boolean"
-					},
-					{
-						"key": "addEmptyParamsToSign",
-						"value": false,
-						"type": "boolean"
-					}
-				]
-			},
-			"event": [
-				{
-					"listen": "prerequest",
-					"script": {
-						"id": "4c9b49cf-9c29-4e4f-a7ea-2e95d0f630be",
-						"type": "text/javascript",
-						"exec": [
-							"sadasddas"
-						]
-					}
-				},
-				{
-					"listen": "test",
-					"script": {
-						"id": "2b3fd7b0-e176-43f2-8f2b-e434fce6f72f",
-						"type": "text/javascript",
-						"exec": [
-							"adssadasdas"
-						]
-					}
-				}
-			]
-		},
-		{
 			"name": "F1",
-			"item": [
-				{
-					"name": "New Request",
-					"id": "56d67e37-7ad5-4c39-8444-11d6475ff5ae",
-					"protocolProfileBehavior": {
-						"disableBodyPruning": true
-					},
-					"request": {
-						"method": "GET",
-						"header": [],
-						"url": {
-							"raw": "google.com",
-							"host": [
-								"google",
-								"com"
-							]
-						}
-					},
-					"response": []
-				}
-			],
+			"item": [],
 			"id": "37762231-5b2d-463f-a71e-9dbc70e4d129"
 		},
 		{
@@ -116,7 +44,6 @@
 						}
 					},
 					"_postman_previewlanguage": "Text",
-					"_postman_previewtype": "html",
 					"header": null,
 					"cookie": [],
 					"body": null
@@ -136,7 +63,6 @@
 						}
 					},
 					"_postman_previewlanguage": "Text",
-					"_postman_previewtype": "html",
 					"header": "",
 					"cookie": [],
 					"body": ""
