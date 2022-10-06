@@ -6,6 +6,7 @@ id = 8994fc8d-f8cd-4586-91f8-263b4e934b0d
 rootDirectory = postman/collections
 files[] = {"id":"900232-8cbab630-f14e-4cc5-b886-6bf79b3ebdee","path":"API Collection 1 Copy.json","metaData":{}}
 files[] = {"id":"900232-448ae47e-5360-49a4-9825-113029ccc1d2","path":"Boro.json","metaData":{}}
+files[] = {"id":"900232-31127c3a-126f-43a7-950f-289bdebc4f46","path":"New Collection.json","metaData":{}}
 
 [relations.collections.metaData]
 
